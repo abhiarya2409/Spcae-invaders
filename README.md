@@ -1,7 +1,4 @@
-# Spcae-invaders
 # Space Invaders
-
-![Space Invaders Logo](path/to/logo.png)
 
 Space Invaders is a classic arcade-style game where players control a spaceship to defend against waves of alien invaders. This project is a simple implementation of the Space Invaders game using Python and Pygame.
 
